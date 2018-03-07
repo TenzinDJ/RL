@@ -7,11 +7,7 @@ Reinforcement Learning
 + b
 + c
 
-1 aa
-2 bb
-3 cc
+
 
 <abc
->aaa
-<pre><code>
-aaaaa
+>aaa<
